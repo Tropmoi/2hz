@@ -12,6 +12,6 @@ website:
 
 format:
   html:
-    theme: spacelab
+    theme: santstone
     css: styles.css
     toc: true
