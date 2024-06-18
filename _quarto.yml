@@ -8,10 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - A propos.qmd
 
 format:
   html:
-    theme: santstone
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#94fff5"
+    linkcolor: "#ef94ff"
+    monofront: courier new
     css: styles.css
     toc: true

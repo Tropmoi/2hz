@@ -3,10 +3,15 @@
 title: "2Hz"
 ---
 
-C'est un site Quarto...
+Ca c'est de la bagnole
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+T'en veux plus?  <https://www.sixt.fr/magazine/actualites/plus-belles-voitures/>.
 
-```{r}
-1 + 1
-```
+---
+title': "J.T. Smith"
+image: vroum.png
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 25em
+---

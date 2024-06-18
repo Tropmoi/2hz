@@ -1,0 +1,13 @@
+---
+Here's some links to my profile on differents websites
+links:
+  - text Email
+  icon: envelope
+  href: mailto:remischoeneberger@gmail.com
+  -text
+  Github
+  icon: github
+  href: https://github.com/Tropmoi/
+  -text Youtube
+  icon youtube
+  href: https://www.youtube.com/channel/UCRQOHfCzYENH9TP2YHHGoww/
